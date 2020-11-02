@@ -1,0 +1,17 @@
+{
+  "name": "1.0.0",
+  "version": "1.0.0",
+  "description": "alexsa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Gaston",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk": "^2.9.0"
+  }
+}
